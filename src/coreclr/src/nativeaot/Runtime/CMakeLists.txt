@@ -7,6 +7,7 @@ set(COMMON_RUNTIME_SOURCES
     Crst.cpp
     DebugEventSource.cpp
     DebugFuncEval.cpp
+    DebugHeader.cpp
     DebuggerHook.cpp
     eetype.cpp
     EHHelpers.cpp
